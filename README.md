@@ -1,9 +1,13 @@
-Project setup
+#Icecream API
 
-npm install
-node database/setup.js
-node database/seed.js
+## Project setup
 
-Run app
+npm install  
+node database/setup.js  
+node database/seed.js  
 
-node app.js
+
+## Run app
+
+node app.js  
+
